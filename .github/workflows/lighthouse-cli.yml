@@ -14,7 +14,7 @@ on:
       projectManager:
         description: "Project Manager"
         required: false
-        default: "Kunal"
+        default: "Kunal "
       qaManager:
         description: "QA Manager"
         required: false
